@@ -49,5 +49,17 @@ body{
     height: 400px !important;
     background-color:black !important;
 }
+@media only screen and (max-width:600px){
+    body{
+        width: 400px;
+        background-image: linear-gradient(to right, teal , black) !important;
+        background-size: cover !important;
+    text-align: center!important;
+    }
+}
+@media only screen and (max-width:600px){
+.mainDiv{
+    width: 150px;
+}
 
-
+}
