@@ -1,0 +1,53 @@
+body{
+    background-image: linear-gradient(to right, teal , black) !important;
+     background-size: cover !important;
+    text-align: center!important;
+}
+.myHeader{
+    color: teal !important;
+    text-shadow:5px 5px 8px black !important;
+    margin-top: 70px !important;
+    margin-bottom: 10px !important;
+    font-size: 75px !important;
+}
+.inputBar{
+    
+    width: 45% !important;
+    margin: 0 auto !important;
+    margin-top: 50px !important;
+    height: 40px !important;
+}
+#inputBtn{
+    margin-top: 20px !important;
+   margin-right: 45% !important;
+   margin-left: 45% !important;
+}
+.li-list{
+    padding-left: 50px !important;
+    color: white !important;
+    list-style: none !important;
+    margin-left: -250px!important;
+    margin-top: 20px !important;
+    
+}
+.btn-primary{
+    cursor: pointer;
+    margin-bottom: 4px;
+    margin-left: 5px !important;
+    margin-right: 5px !important;
+    height: 30px !important;
+    padding-top: 2px !important;
+    padding-bottom: 2px !important;
+    padding-left: 3px !important;
+    padding-right: 3px !important;
+    width: 80px !important;
+}
+
+.mainDiv{
+    margin: 0 auto !important;
+    width:500px !important;
+    height: 400px !important;
+    background-color:black !important;
+}
+
+
